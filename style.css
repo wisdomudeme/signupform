@@ -1,0 +1,44 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+
+.form {
+
+
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+}
+
+.label {
+    text-align: center;
+}
+
+.line {
+    width: 100;
+}
+
+.image>img {
+    align-items: center;
+    border: solid red;
+    margin: 0px 0px 0px 0px;
+}
+
+.image-1>img{
+    width: 200px;
+}
+
+.card{
+    height: 60px;
+}
+
+.card-text {
+    margin: 68px 0px 0px 0px;
+
+    font-size: 23px;
+}
+
